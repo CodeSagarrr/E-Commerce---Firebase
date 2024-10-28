@@ -28,7 +28,7 @@ const CartProduct = () => {
     }
 
     const deleteCart = (index: Number) => {
-        const newCart = cartProduct.filter((item , i ) => index !== i)
+        const newCart = cartProduct.filter(( _ , i ) => index !== i)
         setCartProduct(newCart)
         toast.success('product is deleted successfully')
         localStorage.removeItem('cartItem')

@@ -2,8 +2,6 @@ export const ImagesData = [
     {
          "id":1,
         "url":'https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2021-10/beautiful-asian-woman-carrying-colorful-bags-shopping-online-with-mobile-phone.jpg',
-        "title":'Sale House with 70% Off',
-        "caption": "Beautiful Asian Woman Carrying Colorful Bags Shopping Online with Mobile Phone"
     },
     {
          "id":2,
